@@ -1,4 +1,4 @@
-package com.bogotobogo;
+package com.beercafeguy.app;
 
 public class BankAccount {
 

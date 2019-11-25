@@ -1,4 +1,4 @@
-package com.bogotobogo;
+package com.beercafeguy.app;
 
 import junit.framework.Assert;
 import org.junit.Before;

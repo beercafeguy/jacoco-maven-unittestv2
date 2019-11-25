@@ -1,13 +1,13 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.bogotobogo</groupId>
-  <artifactId>bogotobogo_JenkinsOnEC2</artifactId>
+  <groupId>com.beercafeguy</groupId>
+  <artifactId>beercafeguy</artifactId>
   <packaging>jar</packaging>
   <version>212.0-SNAPSHOT</version>
 
   <properties>
-    <maven.compiler.source>7</maven.compiler.source>
-    <maven.compiler.target>7</maven.compiler.target>
+    <maven.compiler.source>8</maven.compiler.source>
+    <maven.compiler.target>8</maven.compiler.target>
   </properties>
 
   <dependencies>
